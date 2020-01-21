@@ -58,7 +58,9 @@ yarn commitizen init cz-conventional-changelog --yarn --dev --exact
 
 14 - Uma descrição DEVE ser fornecida após o texto “BREAKING CHANGE:“, descrevendo o que mudou na API, por exemplo, BREAKING CHANGE: as variáveis de ambiente agora têm preferência sobre os arquivos de configuração.
 
-15 - Todas as mensagens de commit devem está em inglês.
+15 - Todas as mensagens de commit DEVEM está em inglês.
+
+16 - Todas as mensagnes do commit DEVEM usar snake case como padrão.
 
 ## References
 
