@@ -4,7 +4,7 @@
   "main": "index.js",
   "repository": "git@github.com:Vituriano/gitPattern.git",
   "author": "Vituriano <viturianooliveira@gmail.com>",
-  "license": "GNU",
+  "license": "MIT",
   "scripts": {
     "start": ""
   },
