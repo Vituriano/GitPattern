@@ -18,12 +18,15 @@
     "@commitlint/cli": "^8.3.5",
     "@commitlint/config-conventional": "^8.3.4",
     "commitizen": "^4.0.3",
-    "cz-conventional-changelog": "3.0.2",
+    "cz-customizable": "^6.2.0",
     "husky": "^4.0.10"
   },
   "config": {
     "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog"
+      "path": "./node_modules/cz-customizable"
+    },
+    "cz-customizable": {
+      "config": "config/commit/config.js"
     }
   }
 }
